@@ -3,7 +3,7 @@
 Then we use some mathematical functions to calculate how much the excercise is done.
 
 ## Sit-Up Exercise
-![Sit-Up](https://github.com/Bewin007/Product-Development/blob/main/videos/sit-up.mp4)
+![Sit-Up]([https://github.com/Bewin007/Product-Development/blob/main/videos/sit-up.mp4](https://github.com/Bewin007/Product-Development/blob/main/videos/pull-up.mp4))
 
 Video: https://www.youtube.com/watch?v=aQh52cRfH-w
 
