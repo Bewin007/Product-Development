@@ -47,12 +47,15 @@ python main.py -t walk -vs videos/walk.mp4
 
 ---
 
-You can also detect your movements live with your webcam, you can run the below code line below.
-'''
+Note: Need to be in Product-development folder before running the code.
+      You can use 'cd' for navigation between folders in windows and Linux.
+
+You can also detect your movements live with your webcam, you can run the code in below line to use this in GUI.
+```
 python qna.py
-'''
+```
 If you need to run paticular exercise you can use the below code.
-Note: Need to be in Product-development folder before running the code
+
 Sit up
 ```
 python main.py -t sit-up
