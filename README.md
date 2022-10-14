@@ -20,15 +20,6 @@ python main.py -t pull-up -vs videos/pull-up.mp4
 ```
 
 
-## Push-Up Exercise
-![Push-Up](https://github.com/Bewin007/Product-Development/blob/main/videos/push-up.mp4)
-
-A push-up is a common calisthenics exercise beginning from the prone position. By raising and lowering the body using the arms, push-ups exercise the pectoral muscles, triceps, and anterior deltoids, with ancillary benefits to the rest of the deltoids, serratus anterior, coracobrachialis and the midsection as a whole. 
-```
-python main.py -t push-up -vs videos/push-up.mp4
-```
-
-
 ## Squat Exercise
 ![Squat](https://github.com/Bewin007/Product-Development/blob/main/videos/squat.mp4)
 
@@ -54,6 +45,7 @@ You can also detect your movements live with your webcam, you can run the code i
 ```
 python qna.py
 ```
+
 If you need to run paticular exercise you can use the below code.
 
 Sit up
